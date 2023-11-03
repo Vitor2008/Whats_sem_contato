@@ -88,14 +88,14 @@ body {
 
 
 .logo-footer{
-  margin-top: 20px;
+  padding-top: 20px;
   text-align: right;
   position: relative;
 }
 
 .logo-footer img{
   cursor: pointer;
-  width: 250px;
+  width: 150px;
   filter: grayscale(100%);
   transform: scale(1,1);
   transition: 1s;
