@@ -15,12 +15,7 @@ body {
     padding: 50px;
   }
 
-  .anuncio{
-    margin-top: -28%;
-    cursor: pointer;
-    float: right; 
-    width: 50%;
-  }
+
   
   .logo img{
     border-radius: 50%;
@@ -135,11 +130,6 @@ body {
 
   .logo{
     margin-top: -12%;
-  }
-
-  .anuncio{
-    margin-top: 2%;
-    width: 100%;
   }
 
   .container h2{
